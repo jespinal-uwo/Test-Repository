@@ -1,1 +1,1 @@
-# CS-2210
+# This is a test repository used to play around.
